@@ -17,8 +17,10 @@
 
 | Projeto | Descrição | Stack |
 |---|---|---|
+| [Sistema-Gestao-Consorcios](https://github.com/joaosantosfagundes/Sistema-Gestao-Consorcios) | Sistema Full Stack de gestão de consórcios — grupos, cotas, pagamentos via PIX (AbacatePay), assembleias e controle financeiro em tempo real | Node.js, Express, Next.js, MySQL, Socket.IO, JWT |
 | [Projeto_PI3](https://github.com/joaosantosfagundes/Projeto_PI3) | Sistema de gestão de assistência técnica agrícola — equipamentos, marcas, serviços e ordens de serviço | Node.js, Express, MySQL, EJS |
 | [Atividade-Evasao](https://github.com/joaosantosfagundes/Atividade-Evasao) | Modelo de Machine Learning para previsão de evasão escolar, com dashboard interativo | Python, scikit-learn, Streamlit |
+| [ChatBot](https://github.com/joaosantosfagundes/ChatBot) | Chatbot de suporte para um parque de diversões — registro de problemas em atrações via linguagem natural | Dialogflow, Webhooks (Node.js) |
 
 ### 🧰 Tecnologias e ferramentas
 
@@ -40,6 +42,8 @@
 **Ferramentas**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Dialogflow](https://img.shields.io/badge/-Dialogflow-FF9800?style=flat-square&logo=dialogflow&logoColor=white)
 
 ### 📈 Estatísticas do GitHub
 
@@ -51,5 +55,6 @@
 ### 📫 Como me encontrar
 
 <!-- Adicione aqui os links que quiser deixar públicos, por exemplo: -->
-<!-- LinkedIn : https://www.linkedin.com/in/joãovitorfagundes/
+### 📫 Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3ovitorfagundes/)
 <!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://seu-portfolio.vercel.app) -->
