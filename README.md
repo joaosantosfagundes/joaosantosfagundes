@@ -53,8 +53,5 @@
 </p>
 
 ### 📫 Como me encontrar
-
-<!-- Adicione aqui os links que quiser deixar públicos, por exemplo: -->
-### 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3ovitorfagundes/)
 <!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://seu-portfolio.vercel.app) -->
