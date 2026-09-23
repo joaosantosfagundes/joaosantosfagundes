@@ -1,57 +1,98 @@
-<h1 align="center">Olá, eu sou o João Vitor 👋</h1>
+<div align="center">
 
-<p align="center">
-  Estudante de Desenvolvimento Full Stack | Node.js • Next.js • MySQL • Machine Learning
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=520&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Vitor;Estudante+de+Full+Stack+Development;Construindo+projetos+com+Node.js+%2B+Next.js;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 
----
+</div>
 
-### 🔭 Sobre mim
+<br>
 
-- 💻 Desenvolvedor Full Stack em formação, construindo aplicações completas do banco de dados à interface
-- 🌱 Expandindo conhecimento em **Machine Learning**, aplicando modelos preditivos em projetos reais
-- 🛠️ Gosto de projetos que unem lógica de negócio sólida (CRUD, autenticação, arquitetura em camadas) com boas práticas de organização de código
-- 📍 São Paulo, Brasil
+<table align="center">
+<tr>
+<td valign="top" width="55%">
+
+### 👋 Sobre mim
+
+Estudante de **Desenvolvimento Full Stack**, em São Paulo — Brasil.
+Trabalho em projetos acadêmicos e sistemas próprios, do backend ao frontend, sempre buscando escrever código limpo e organizado.
+
+- 🎓 Full Stack Development Student
+- 💻 Node.js · Express · Next.js · Python
+- 🗄️ MySQL · Socket.IO · JWT
+- 📚 Construindo meu portfólio, um commit por vez
+- 🌱 Explorando integrações com IA (Dialogflow)
+
+</td>
+<td valign="top" width="45%">
+
+```yaml
+joao_vitor:
+  role: "Full Stack Developer (student)"
+  location: "São Paulo, BR"
+  stack:
+    backend: [Node.js, Express, Python]
+    frontend: [Next.js, React]
+    database: [MySQL]
+    tools: [Socket.IO, JWT, Dialogflow]
+  focus: "aprender construindo"
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🛠️ Stack
+
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-2E8B57?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-2E8B57?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=flat-square&logo=socket.io&badgeColor=010101)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+</div>
+
+<br>
 
 ### 🚀 Projetos em destaque
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [Sistema-Gestao-Consorcios](https://github.com/joaosantosfagundes/Sistema-Gestao-Consorcios) | Sistema Full Stack de gestão de consórcios — grupos, cotas, pagamentos via PIX (AbacatePay), assembleias e controle financeiro em tempo real | Node.js, Express, Next.js, MySQL, Socket.IO, JWT |
-| [Projeto_PI3](https://github.com/joaosantosfagundes/Projeto_PI3) | Sistema de gestão de assistência técnica agrícola — equipamentos, marcas, serviços e ordens de serviço | Node.js, Express, MySQL, EJS |
-| [Atividade-Evasao](https://github.com/joaosantosfagundes/Atividade-Evasao) | Modelo de Machine Learning para previsão de evasão escolar, com dashboard interativo | Python, scikit-learn, Streamlit |
-| [ChatBot](https://github.com/joaosantosfagundes/ChatBot) | Chatbot de suporte para um parque de diversões — registro de problemas em atrações via linguagem natural | Dialogflow, Webhooks (Node.js) |
+<div align="center">
 
-### 🧰 Tecnologias e ferramentas
+<a href="https://github.com/joaosantosfagundes/SGM-Marmitaria">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=joaosantosfagundes&repo=SGM-Marmitaria&theme=default&hide_border=true&title_color=2E8B57" />
+</a>
+<a href="https://github.com/joaosantosfagundes/concorcio-trabalho">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=joaosantosfagundes&repo=concorcio-trabalho&theme=default&hide_border=true&title_color=2E8B57" />
+</a>
 
-**Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+</div>
 
-**Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+<br>
 
-**Dados e Machine Learning**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+### 📊 GitHub Stats
 
-**Ferramentas**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Dialogflow](https://img.shields.io/badge/-Dialogflow-FF9800?style=flat-square&logo=dialogflow&logoColor=white)
+<div align="center">
 
-### 📈 Estatísticas do GitHub
+<img src="https://github-readme-stats.vercel.app/api?username=joaosantosfagundes&show_icons=true&theme=default&hide_border=true&title_color=2E8B57&icon_color=2E8B57" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaosantosfagundes&theme=default&hide_border=true&ring=2E8B57&fire=2E8B57" width="48%" />
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaosantosfagundes&show_icons=true&theme=default&hide_border=true" alt="Estatísticas do GitHub de joaosantosfagundes" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaosantosfagundes&hide_border=true" alt="Streak do GitHub de joaosantosfagundes" height="165"/>
-</p>
+</div>
 
-### 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3ovitorfagundes/)
-<!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://seu-portfolio.vercel.app) -->
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosantosfagundes&layout=compact&theme=default&hide_border=true&title_color=2E8B57" width="45%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<sub>Feito com café e algumas linhas de código ☕</sub>
+
+</div>
