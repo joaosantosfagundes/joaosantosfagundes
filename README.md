@@ -190,6 +190,7 @@ Atendimento ao público, organização de registros e documentos, direcionamento
 **FIAP**
 
 ![Linux](https://img.shields.io/badge/Linux-Fundamentos-4b0082?style=flat-square&logo=linux&logoColor=white)
+![Cloud](https://img.shields.io/badge/Nano%20Course-Cloud%20Fundamentals%2C%20Administration%20%26%20Solution%20Architect-4b0082?style=flat-square&logo=icloud&logoColor=white)
 
 <br>
 
