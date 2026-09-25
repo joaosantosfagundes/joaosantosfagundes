@@ -207,26 +207,6 @@ Atendimento ao público, organização de registros e documentos, direcionamento
 
 <br>
 
-## 🏅 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=joaosantosfagundes&theme=juicyfresh&no-frame=true&row=1&column=6&margin-w=8" />
-
-</div>
-
-<br>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaosantosfagundes&theme=react-dark&hide_border=true&bg_color=0d0221&color=A855F7&line=A855F7&point=ffffff" width="95%" />
-
-</div>
-
-<br>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
